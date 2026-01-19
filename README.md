@@ -3,6 +3,7 @@
 🎓 Étudiant passionné par l’informatique  
 💻 Intéressé par le développement logiciel, les jeux vidéo et la programmation  
 🚀 J’aime apprendre en créant des projets concrets
+11 brawlers 1000 tr - maxing Mortis
 
 ---
 
@@ -33,9 +34,9 @@
 
 ## 📈 Stats GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romcaro&show_icons=true&theme=tokyonight)
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=romcaro&layout=compact&theme=tokyonight)
 
 ---
 
