@@ -1,17 +1,14 @@
 # 👋 Salut, moi c’est Roman
 
-🎓 Étudiant passionné par l’informatique  
+🎓 Étudiant en informatique  
 💻 Intéressé par le développement logiciel, les jeux vidéo et la programmation  
-🚀 J’aime apprendre en créant des projets concrets
-11 brawlers 1000 tr - maxing Mortis
 
 ---
 
 ## 🧠 À propos de moi
 
 - 📍 France  
-- 🎮 Développement de jeux (Python, Pygame, Pyxel)  
-- 🔍 Curieux, motivé et autonome  
+- 🎮 Développement de jeux  
 
 ---
 
@@ -21,14 +18,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📂 Projets
-
-- 🎯 **Jeux Python** (Pygame / Pyxel)
-- 🌌 **Simulations scientifiques** (physique, gravité, systèmes planétaires)
-- 🧠 **Projets éducatifs** (scripts interactifs, outils pédagogiques)
 
 ---
 
