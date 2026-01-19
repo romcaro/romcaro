@@ -1,22 +1,48 @@
-Hi there 👋
-👋 Salut, moi c’est Théo Nidos
-👨‍💻 À propos de moi
-🎓 Étudiant en BUT Informatique à l’IUT de Limoges.
+# 👋 Salut, moi c’est Roman
 
-💡 Passionné par l’informatique, le développement logiciel et le numérique, je réalise des projets personnels et universitaires pour approfondir mes compétences.
+🎓 Étudiant passionné par l’informatique  
+💻 Intéressé par le développement logiciel, les jeux vidéo et la programmation  
+🚀 J’aime apprendre en créant des projets concrets
 
-🚀 Objectif : évoluer vers les métiers du développement logiciel et de l’informatique.
+---
 
-🛠️ Compétences
-💻 Langages : Python, HTML, CSS
-🧠 Informatique : algorithmique, structures de données, POO
-🔧 Outils :GitHub, VS Code
-🎯 Centres d’intérêt
-Informatique & nouvelles technologies
-Développement logiciel
-Jeux vidéo
-Mécanique / motos
-📫 Me contacter
-GitHub : vous êtes ici 😉
-Parcoursup / cadre scolaire
-⭐ N’hésitez pas à explorer mes dépôts et à suivre mon évolution !
+## 🧠 À propos de moi
+
+- 📍 France  
+- 🎮 Développement de jeux (Python, Pygame, Pyxel)  
+- 🔍 Curieux, motivé et autonome  
+
+---
+
+## 🛠️ Technologies & outils
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📂 Projets
+
+- 🎯 **Jeux Python** (Pygame / Pyxel)
+- 🌌 **Simulations scientifiques** (physique, gravité, systèmes planétaires)
+- 🧠 **Projets éducatifs** (scripts interactifs, outils pédagogiques)
+
+---
+
+## 📈 Stats GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight)
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Me contacter
+
+- GitHub : https://github.com/TON_PSEUDO
+
+---
+
+⭐ N’hésite pas à explorer mes repos et à laisser une étoile si un projet te plaît !
