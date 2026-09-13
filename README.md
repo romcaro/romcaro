@@ -1,6 +1,8 @@
 # Roman
 
-Étudiant en informatique, orienté développement logiciel et programmation de jeux vidéo. Basé en France.
+Étudiant en informatique, 
+orienté développement logiciel et programmation de jeux vidéo, mais aussi sécurité. 
+Basé en France.
 
 ---
 
