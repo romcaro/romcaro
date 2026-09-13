@@ -1,38 +1,26 @@
-# 👋 Salut, moi c’est Roman
+# Roman
 
-🎓 Étudiant en informatique  
-💻 Intéressé par le développement logiciel, les jeux vidéo et la programmation  
-
----
-
-## 🧠 À propos de moi
-
-- 📍 France  
-- 🎮 Développement de jeux  
+Étudiant en informatique, orienté développement logiciel et programmation de jeux vidéo. Basé en France.
 
 ---
 
-## 🛠️ Technologies & outils
+### Stack & Environnement
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 Stats GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=romcaro&show_icons=true&theme=tokyonight)
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=romcaro&layout=compact&theme=tokyonight)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📫 Me contacter
+### Activité GitHub
 
-- GitHub : ba enfaiite c'est ici
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=romcaro&show_icons=true&theme=default&hide_border=true" alt="Statistiques GitHub" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romcaro&layout=compact&theme=default&hide_border=true" alt="Langages les plus utilisés" height="150" />
+</p>
 
 ---
 
-⭐ N’hésite pas à explorer mes repos et à laisser une étoile si un projet te plaît !
+### Contact
+- **Email** : [roman.caro@etu.unilim.fr](mailto:roman.caro@etu.unilim.fr)
